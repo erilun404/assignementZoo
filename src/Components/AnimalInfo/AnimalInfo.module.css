@@ -1,0 +1,47 @@
+.wrapper {
+    
+}
+
+.accordion {}
+
+.title {}
+
+img {
+    width: 64px;
+    border-radius: 20%;
+    border: 6px solid rgba(0, 0, 0, 0.12);
+    margin-top: 1em;
+  }
+
+  .animal {
+    padding: 15px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .kookaburra, .perentie, .tasmaniandevil {
+    background-color: #8dab55;  /* Gul */
+    border: 2px solid #678755;
+  }
+
+  .cassowary, .hawksbillturtle  {
+    background-color: #e1eff7;  
+    border: 2px solid #90b6dc;
+  }
+
+  .yellowtailedblackcockatoo, .frillneckedlizard {
+    background-color: #fceade;  
+    border: 2px solid #eadecc;
+  }
+
+  .echidna {
+    background-color: #d7c59a;  
+    border: 2px solid #ca986b;
+  }
+
+  .quokka {
+    background-color: #e5bc71;  
+    border: 2px solid #ca986b;
+  }
