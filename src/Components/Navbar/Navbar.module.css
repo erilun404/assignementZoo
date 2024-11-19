@@ -35,14 +35,3 @@
   .link:hover {
     color: var(--secondary-text); 
   }
-
-/* .link {
-    text-decoration: none;
-    color: black;
-  }
-  
-  .activeLink {
-    text-decoration: underline;
-    color: blue;
-    font-weight: bold;
-  } */

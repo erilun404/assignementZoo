@@ -1,5 +1,3 @@
-
-
 const Mammals = [
     {
       name: "Echidna",
@@ -10,10 +8,10 @@ const Mammals = [
       length: "76 cm",
       weight: "10 kg",
       found: "Throughout Australia",
-      image: "src/images/echidna.jpg"
+      image: "/images/echidna.jpg"
     },
     {
-      image: "src/images/Quokka.jpg",
+      image: "/images/Quokka.jpg",
       name: "Quokka",
       lifespan: "10 years",
       group: "mammals",
@@ -24,7 +22,7 @@ const Mammals = [
       found: "Only found on Rottnest Island and a few places on mainland Western Australia"
     },
       {
-        image: "src/images/tasmanian.jpg",
+        image: "/images/tasmanian.jpg",
         name: "Tasmanian Devil",
         lifespan: "5 years",
         group: "mammals",
@@ -38,7 +36,7 @@ const Mammals = [
     
     const Reptiles = [
       {
-        image: "src/images/HawsbillTurtle.jpg",
+        image: "/images/HawsbillTurtle.jpg",
         name: "Hawksbill Turtle",
         lifespan: "50 years",
         group: "reptiles",
@@ -49,7 +47,7 @@ const Mammals = [
         found: "Tropical coasts of Queensland, Northern Territory and Western Australia"
       },
       {
-        image: "src/images/Frill-necked.jpg",
+        image: "/images/Frill-necked.jpg",
         name: "Frill necked Lizard",
         lifespan: "20 years",
         group: "reptiles",
@@ -60,7 +58,7 @@ const Mammals = [
         found: "Northern Australia"
       },
       {
-        image: "src/images/Perentie.jpg",
+        image: "/images/Perentie.jpg",
         name: "Perentie",
         lifespan: "20 years",
         group: "reptiles",
@@ -75,7 +73,7 @@ const Mammals = [
 
     const Birds = [
       {
-        image: "src/images/YellowTailedCockatoo.jpg",
+        image: "/images/YellowTailedCockatoo.jpg",
         name: "Yellow tailed Black Cockatoo",
         lifespan: "41 years",
         group: "birds",
@@ -86,7 +84,7 @@ const Mammals = [
         found: "SE Australia"
       },
       {
-        image: "src/images/cassowary.jpg",
+        image: "/images/cassowary.jpg",
         name: "Cassowary",
         lifespan: "20 years",
         group: "birds",
@@ -97,7 +95,7 @@ const Mammals = [
         found: "Queensland"
       },
       {
-        image: "src/images/kookaburra.jpg",
+        image: "/images/kookaburra.jpg",
         name: "Kookaburra",
         lifespan: "20 years",
         group: "birds",

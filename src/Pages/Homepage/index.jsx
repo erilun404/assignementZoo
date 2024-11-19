@@ -20,37 +20,8 @@ const HomePage = () => {
           <p>Select an animal to see details here.</p>
         )}
       </div>
-      {/* <main className={styles.mainContent}>
-        {!selectedShortAnimal && (
-          <p>
-            Welcome to the Australia Zoo! Click on an animal in the sidebar to
-            learn more.
-          </p>
-        )}
-      </main> */}
     </div>
   );
-  // return (
-  //   <div className={styles.home}>
-  //     <Sidebar
-  //       animals={combinedAnimals}
-  //       currentAnimal={selectedShortAnimal}
-  //       setAnimal={setSelectedShortAnimal}
-  //     />
-  //     <div className={styles.animal}>
-  //     <SelectedAnimal animal={selectedShortAnimal} />
-  //     </div>
-      
-  //     <main className={styles.mainContent}>
-  //       {!selectedShortAnimal && (
-  //         <p>
-  //           Welcome to the Australia Zoo! Click on an animal in the sidebar to
-  //           learn more.
-  //         </p>
-  //       )}
-  //     </main>
-  //   </div>
-  // );
 };
 
 export default HomePage;
